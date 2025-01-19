@@ -1,0 +1,1 @@
+This repository demonstrates a common issue in VBScript: handling missing or empty function parameters.  The original code throws a generic error.  The improved version provides more specific error messages for better debugging.
